@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👨🏾‍💻 Luigui Bertuccelli #
 
-<!--
-**Luigui-Bertuccelli/Luigui-Bertuccelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🎓 Future Electrical Engineer @FEUP**  
+🇧🇷 Born in Brazil, building my future between Porto, Paris and the world  
+🔧 Passionate about automation, embedded systems & real-world engineering  
+💭 Living off logic, guided by dreams  
+🎯 Mission: use engineering to improve the world and shape my legacy
 
-Here are some ideas to get you started:
+📧 Contact: engluiguibertuccelli@tuta.io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🇫🇷 français
+
+**🎓 Futur ingénieur électrotechnique à la FEUP**  
+🇧🇷 Né au Brésil, construisant mon avenir entre Porto, Paris et le monde  
+🔧 Passionné par l’automatisation, les systèmes embarqués et l’ingénierie appliquée  
+💭 Guidé par la logique et les rêves  
+🎯 Mission : utiliser l’ingénierie pour améliorer le monde et laisser un héritage
+
+📧 Contact : engluiguibertuccelli@tuta.io
+
