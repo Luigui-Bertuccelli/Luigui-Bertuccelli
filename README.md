@@ -19,6 +19,7 @@
 🎯 Mission : utiliser l’ingénierie pour améliorer le monde et laisser un héritage
 
 📧 Contact : engluiguibertuccelli@tuta.io
-<
+---
+
 “No meio do inverno, descobri que havia dentro de mim um verão invencível.” - A.Camus
 
